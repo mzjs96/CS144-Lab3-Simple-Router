@@ -33,7 +33,7 @@ void sr_arpcache_send_all_pacs(struct sr_instance* sr,
 	print_addr_ip_int(ntohl(ip_hdr->ip_src));
 	fprintf(stderr, " Target: ");
 	print_addr_ip_int(ntohl(ip_hdr->ip_dst));
-	fprintf(stderr, " ID: %u)... ", htons(ip_hdr->ip_id));
+	fprintf(stderr, " ID: %u)...\n", htons(ip_hdr->ip_id));
 
 	forward_pac(sr, pac->buf, pac->len);
 }
