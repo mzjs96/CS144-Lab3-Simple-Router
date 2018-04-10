@@ -8,3 +8,6 @@ Detailed requirements:
 
 * [http://www.scs.stanford.edu/09au-cs144/notes/section/cs144_lab3_review.pdf](http://www.scs.stanford.edu/09au-cs144/notes/section/cs144_lab3_review.pdf)
 
+Blog:
+
+* [https://blog.masterliu.net/cs144-lab3-simple-router](https://blog.masterliu.net/cs144-lab3-simple-router/)
